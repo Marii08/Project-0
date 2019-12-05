@@ -1,9 +1,45 @@
 <DOCTYPE html>
 <html>
 <head>
-<title> My webpage! </titel>
+<title> style="color:blue;texte-aligne:center;" My webpage! </titel>
 </head>
 <body> 
-<h1>Welcome to my website</h1>
+h{ 
+color:gris;
+style="texte-aligne:center;
+}
+<h1> Welcome to my city</h1>
+<p>
+<div id="Tangier">
+this is <span class="name">Tangier</span> 
+</p>
+<h2>Here is different places</h2>
+<table>
+<style>
+table{
+border:2px solide dark bleu;
+border-collapse: collapse;
+padding:4px;
+width:50%
+}
+th;td{
+border:1px solide dark bleu;
+texte-aligne:center;
+}
+th{
+background:lightbleu;
+}
+<tr>
+<th>cities</th>
+<th> name</th>
+</tr>
+<tr>
+<td> places</td>
+</tr>
+</table>
+<li>
+<img src="IMG-20190526-WA0021" height="450" width="450">
+</li>
+
 </body>
 </html>
